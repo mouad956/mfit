@@ -38,3 +38,4 @@ lik = fun(x,data,options)
 where `x` is a vector of parameter values, `data` is a single subject's data structure. It must have a field called `N` (i.e., `data.N`) that specifies the number of observations for the subject. `options` is an additional input structure that may be omitted.
 
 See [mfit_demo_RL.m](demos/mfit_demo_RL.m) for examples of Bayesian model comparison and cross-validation.
+# ysayguhiutyrhegasrhyuioitrewa
